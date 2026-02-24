@@ -1,6 +1,10 @@
 # Maze 100 (iOS / SwiftUI + SpriteKit)
 
 Maze 100 is an iOS puzzle game with 100 levels where the player slides through maze grids, avoids hazards, and reaches the finish.
+## Application Preview
+
+
+  <img src="https://github.com/Dobryev-qa/mobgame_Maze100/blob/main/App_preview/maze100.gif" width="280"/>
 
 ## Tech Stack
 
